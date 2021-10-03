@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+}
+table{
+    width: 90%;
+    height: auto;
+border-spacing: 0;
+margin-left: 5%;
+}
+tr{
+    height: 40px;
+}
+td{
+    font-size: 30px;
+    text-align: center;
+    border: 1px solid black;
+}
